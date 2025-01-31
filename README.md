@@ -1,0 +1,1 @@
+This is an sEMG phenotype-based assessment with robotic assistance, including raw sEMG and robotic kinematic data from both a healthy individual and a patient, as well as subsequent data processing, feature extraction, and evaluation code.
